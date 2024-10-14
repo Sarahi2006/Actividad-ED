@@ -104,10 +104,8 @@
 # reproductor.agregar_relacion('Frutas', 'Fresas')
 # reproductor.agregar_relacion('Vestimenta', 'Suéteres')
 # reproductor.agregar_relacion('Vestimenta', 'Camisetas')
-# reproductor.agregar_relacion('Camisetas', 'Vestidos')
+# reproductor.agregar_relacion('Vestimenta', 'Vestidos')
 
 # reproductor.mostrar_grafo()
 
-# producto_buscar = input("Ingrese el nombre del producto que desea buscar: ")
-# resultado = reproductor.buscar_producto(producto_buscar)
-# print(resultado)
+
